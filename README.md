@@ -6,7 +6,7 @@
 git clone https://github.com/kenjitheman/astrodata-api-client
 ```
 
-- Install all dependencies
+- To install all dependencies:
 
 ```shell
 yarn install
@@ -30,8 +30,6 @@ yarn dev
 
 - Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-
-- Please make sure to update tests as appropriate.
 
 ## License
 
