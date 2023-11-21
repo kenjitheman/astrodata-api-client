@@ -2,13 +2,13 @@
 
 ## Installation
 
-```shell
+```sh
 git clone https://github.com/kenjitheman/astrodata-api-client
 ```
 
 - To install all dependencies:
 
-```shell
+```sh
 yarn install
 ```
 
@@ -16,7 +16,7 @@ yarn install
 
 - To run:
 
-```shell
+```sh
 yarn start
 ```
 
